@@ -34,5 +34,5 @@ Counter >> increment [
 Counter >> initialize [ 
 
 	super initialize.
-	count := 0
+	count :=20
 ]
